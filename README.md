@@ -25,7 +25,8 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
+
+![image](https://github.com/Jeevithha/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/123623197/8b538a54-5e31-4508-af60-5110d6c39e01)
 
 BASE :
 The foundation of the printer, typically made of sturdy materials such as metal or plastic.
